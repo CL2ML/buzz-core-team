@@ -1,0 +1,19 @@
+version: 1
+team: core-team
+workspace: /workspace
+agents:
+  - name: Chief of Staff
+    slug: chief-of-staff
+    role: coordination, prioritization and delegation
+  - name: Product
+    slug: product
+    role: product discovery, requirements and planning
+  - name: Builder
+    slug: builder
+    role: implementation, coding and technical execution
+  - name: Growth
+    slug: growth
+    role: growth experiments, content and distribution
+  - name: Auditor
+    slug: auditor
+    role: review, testing, risk and quality control
